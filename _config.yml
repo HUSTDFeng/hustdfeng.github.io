@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xueliang Wei"
+title                    : "Dan Feng"
 title_separator          : "-"
-name                     : &name "Xueliang Wei"
+name                     : &name "Dan Feng"
 description              : &description "personal description"
-url                      : https://weixuel523.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hustdfeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weixuel523/weixuel523.github.io"
+repository               : "HUSTDFeng/hustdfeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xueliang Wei"
-  avatar           : "Xueliang_Wei.jpg"
-  bio              : "Ph.D student from Huazhong University of Science and Technology (HUST). Email: xueliang_wei@hust.edu.cn"
+  name             : "Dan Feng"
+  avatar           : "myphoto.jpg"
+  bio              : "From Huazhong University of Science and Technology (HUST). Email: dfeng@hust.edu.cn"
   location         : "Wuhan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "xueliang_wei@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=9dNaB5AAAAAJ&hl=en"
+  email            : "dfeng@hust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weixuel523"
+  github           : # "HUSTDFeng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-3571-1702"
+  orcid            : # "http://orcid.org/0000-0003-3571-1702"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

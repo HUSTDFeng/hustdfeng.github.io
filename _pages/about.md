@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
+Dr. Dan Feng, Distinguished Professor of Changjiang Scholars Program, and obtainer of Distinguished Young Scholars of NSFC (National Science Foundation of China). She is a professor and the dean of School of Computer Science and Technology, Huazhong University of Science and Technology (HUST). She is also the director of Division of Data Storage System, Wuhan National Lab for Optoelectronics, and the director of Key Laboratory of Information Storage System, Ministry of Education of China.
 
-Hi! Welcome to my personal website. I'm Xueliang Wei from Huazhong University of Science and Technology (HUST). I received the BE degree in computer science and technology from HUST, China, in 2015. Now, I'm working toward the PhD degree in [SSS&SDS Research Group](https://ssssds.github.io/) in HUST. My current research interests include non-volatile memories, persistent memories, crash consistency, and memory security.
-
-## News
+Dan Feng received the B.E., M.E., and Ph.D. degrees in computer science and technology from HUST, Wuhan, China, in 1991, 1994, and 1997, respectively. Her research interests include computer architecture, Non-Volatile memory technology, distributed and parallel file system, and massive storage system. She has more than 300 publications in major journals and international conferences, including IEEE TC, IEEE TPDS, IEEE TCAD, ACM-TOS, ISCA, FAST, USENIX ATC, EuroSys, ICDCS, HPDC, SC, ICS, IPDPS, DAC and DATE. Dr. Feng serves as an associate editor of IEEE LOCS. She has served as the reviewer of multiple journals, including IEEE TC, IEEE TPDS, et al, and the program committees of multiple international conferences, including SC 2011& 2013, MSST 2012&2015, SRDS2020, FAST2022, et al. She served as the chair of Information Storage Technology Committee of Chinese Computer Federation from 2016 to 2020. She is a member of IEEE and ACM (the Association for Computing Machinery).
 
 
 
